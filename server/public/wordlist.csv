@@ -1,0 +1,60 @@
+﻿動物,かめ,龟,turtle
+動物,ひつじ,羊,sheep
+動物,とり,鸟,bird
+動物,うさぎ,兔子,rabbit
+動物,ねこ,猫,cat
+動物,いぬ,狗,dog
+動物,ぞう,大象,elephant
+動物,さる,猴子,monkey
+動物,くじら,鲸鱼,whale
+動物,たこ,章鱼,octopus
+食べ物,たまご,鸡蛋,egg
+食べ物,にく,肉,meat
+食べ物,さかな,鱼,fish
+食べ物,やさい,蔬菜,vegetable
+食べ物,くだもの,水果,fruit
+食べ物,パン,面包,bread
+食べ物,コーヒー,咖啡,coffee
+食べ物,おちゃ,茶,tea
+食べ物,ビール,啤酒,beer
+食べ物,ワイン,葡萄酒,wine
+服,ふく,衣服,clothes
+服,くつ,鞋,shoes
+服,ぼうし,帽子,hat
+服,めがね,眼镜,glasses
+服,うでどけい,手表,watch
+服,かばん,包,bag
+服,くつした,袜子,socks
+服,ゆびわ,戒指,ring
+服,くちべに,口红,lipstick
+家族,かぞく,家庭,family
+家族,ちち,父亲,father
+家族,はは,母亲,mother
+家族,あに,兄,older brother
+家族,あね,姐,older sister
+家族,おとうと,弟,younger brother
+家族,いもうと,妹,younger sister
+家族,こども,孩子,child
+家族,おじいさん,爷爷,grandfather
+家族,おばあさん,奶奶,grandmother
+色,あか,红色,red
+色,あお,蓝色,blue
+色,きいろ,黄色,yellow
+色,みどり,绿色,green
+色,むらさき,紫色,purple
+色,くろ,黑色,black
+色,しろ,白色,white
+色,ちゃいろ,棕色,brown
+色,はいいろ,灰色,gray
+仕事,かいしゃいん,公司职员,office worker
+仕事,せんせい,老师,teacher
+仕事,いしゃ,医生,doctor
+仕事,かんごし,护士,nurse
+仕事,けんきゅうしゃ,研究员,researcher
+仕事,こうむいん,行政人员,administrative staff
+仕事,ぎんこういん,银行职员,bank clerk
+仕事,べんごし,律师,lawyer
+仕事,かいけい,会计,accountant
+乗り物,じてんしゃ,自行车,bicycle
+乗り物,くるま,汽车,car
+乗り物,でんしゃ,电车,tram
