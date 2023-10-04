@@ -1,0 +1,93 @@
+[
+  {
+    "question": "「寿司」",
+    "choices": ["a) 建筑 (けんちく)", "b) 食品 (しょくひん)", "c) 音乐 (おんがく)"],
+    "correct": 1,
+    "chinese": "寿司 (shòusī)",
+    "image": "img/sushi.png"
+  },
+  {
+    "question": "「犬」",
+    "choices": ["a) 动物 (どうぶつ)", "b) 花 (はな)", "c) 建筑 (けんちく)"],
+    "correct": 0,
+    "chinese": "「狗」（gǒu）",
+    "image": "img/dog.jpg"
+  },
+  {
+    "question": "「キツネ」",
+    "choices": ["a) 动物 (どうぶつ)", "b) 花 (はな)", "c) 时间 (じかん)"],
+    "correct": 0,
+    "chinese": "狐狸 (húlí)",
+    "image": "img/kitsune.jpg"
+  },
+  {
+    "question": "「キツネ」",
+    "choices": ["a) 动物 (どうぶつ)", "b) 花 (はな)", "c) 时间 (じかん)"],
+    "correct": 0,
+    "chinese": "狐狸 (húlí)",
+    "image": "img/kitsune.jpg"
+  },
+  {
+    "question": "「キツネ」",
+    "choices": ["a) 动物 (どうぶつ)", "b) 花 (はな)", "c) 时间 (じかん)"],
+    "correct": 0,
+    "chinese": "狐狸 (húlí)",
+    "image": "img/kitsune.jpg"
+  },
+  {
+    "question": "「紫」",
+    "choices": ["a) 颜色 (いろ)", "b) 饮料 (いんりょう)", "c) 书 (ほん)"],
+    "correct": 0,
+    "chinese": "紫色 (zǐsè)",
+    "image": "murasaki.jpg"
+  },
+  {
+    "question": "「五円」",
+    "choices": ["a) 音乐 (おんがく)", "b) 车 (くるま)", "c) 金钱 (きんかね)"],
+    "correct": 2,
+    "chinese": "五円 (wǔ yuán)",
+    "image": "goen.jpg"
+  },
+  {
+    "question": "「浴衣」",
+    "choices": ["a) 车 (くるま)", "b) 衣服 (いふく)", "c) 书 (ほん)"],
+    "correct": 1,
+    "chinese": "浴衣 (yùyī)",
+    "image": "yukata.jpg"
+  },
+  {
+    "question": "「太鼓」",
+    "choices": ["a) 乐器 (がっき)", "b) 云 (くも)", "c) 饮料 (いんりょう)"],
+    "correct": 0,
+    "chinese": "太鼓 (tàigǔ)",
+    "image": "taiko.jpg"
+  },
+  {
+    "question": "「神社」",
+    "choices": ["a) 山 (やま)", "b) 地点 (ちてん)", "c) 花 (はな)"],
+    "correct": 1,
+    "chinese": "神社 (shénshè)",
+    "image": "jinja.jpg"
+  },
+  {
+    "question": "「りんご」",
+    "choices": ["a) 鱼 (さかな)", "b) 动物 (どうぶつ)", "c) 食品 (しょくひん)"],
+    "correct": 2,
+    "chinese": "苹果 (píngguǒ)",
+    "image": "ringo.jpg"
+  },
+  {
+    "question": "「大阪」",
+    "choices": ["a) 地点 (ちてん)", "b) 音乐 (おんがく)", "c) 汽水 (そーだ)"],
+    "correct": 0,
+    "chinese": "大阪 (dàbǎn)",
+    "image": "osaka.jpg"
+  },
+  {
+    "question": "「サクランボ」",
+    "choices": ["a) 乐器 (がっき)", "b) 车 (くるま)", "c) 食品 (しょくひん)"],
+    "correct": 2,
+    "chinese": "樱桃 (yīngtáo)",
+    "image": "sakuranbo.jpg"
+  }
+]

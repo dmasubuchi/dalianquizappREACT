@@ -1,0 +1,422 @@
+[
+  {
+    "category": "﻿動物",
+    "japanese": "かめ",
+    "chinese": "龟",
+    "english": "turtle",
+    "image": "img/turtle.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "ひつじ",
+    "chinese": "羊",
+    "english": "sheep",
+    "image": "img/sheep.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "とり",
+    "chinese": "鸟",
+    "english": "bird",
+    "image": "img/bird.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "うさぎ",
+    "chinese": "兔子",
+    "english": "rabbit",
+    "image": "img/rabbit.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "ねこ",
+    "chinese": "猫",
+    "english": "cat",
+    "image": "img/cat.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "いぬ",
+    "chinese": "狗",
+    "english": "dog",
+    "image": "img/dog.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "ぞう",
+    "chinese": "大象",
+    "english": "elephant",
+    "image": "img/elephant.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "さる",
+    "chinese": "猴子",
+    "english": "monkey",
+    "image": "img/monkey.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "くじら",
+    "chinese": "鲸鱼",
+    "english": "whale",
+    "image": "img/whale.jpg"
+  },
+  {
+    "category": "動物",
+    "japanese": "たこ",
+    "chinese": "章鱼",
+    "english": "octopus",
+    "image": "img/octopus.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "たまご",
+    "chinese": "鸡蛋",
+    "english": "egg",
+    "image": "img/egg.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "にく",
+    "chinese": "肉",
+    "english": "meat",
+    "image": "img/meat.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "さかな",
+    "chinese": "鱼",
+    "english": "fish",
+    "image": "img/fish.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "やさい",
+    "chinese": "蔬菜",
+    "english": "vegetable",
+    "image": "img/vegetable.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "くだもの",
+    "chinese": "水果",
+    "english": "fruit",
+    "image": "img/fruit.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "パン",
+    "chinese": "面包",
+    "english": "bread",
+    "image": "img/bread.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "コーヒー",
+    "chinese": "咖啡",
+    "english": "coffee",
+    "image": "img/coffee.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "おちゃ",
+    "chinese": "茶",
+    "english": "tea",
+    "image": "img/tea.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "ビール",
+    "chinese": "啤酒",
+    "english": "beer",
+    "image": "img/beer.jpg"
+  },
+  {
+    "category": "食べ物",
+    "japanese": "ワイン",
+    "chinese": "葡萄酒",
+    "english": "wine",
+    "image": "img/wine.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "ふく",
+    "chinese": "衣服",
+    "english": "clothes",
+    "image": "img/clothes.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "くつ",
+    "chinese": "鞋",
+    "english": "shoes",
+    "image": "img/shoes.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "ぼうし",
+    "chinese": "帽子",
+    "english": "hat",
+    "image": "img/hat.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "めがね",
+    "chinese": "眼镜",
+    "english": "glasses",
+    "image": "img/glasses.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "うでどけい",
+    "chinese": "手表",
+    "english": "watch",
+    "image": "img/watch.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "かばん",
+    "chinese": "包",
+    "english": "bag",
+    "image": "img/bag.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "くつした",
+    "chinese": "袜子",
+    "english": "socks",
+    "image": "img/socks.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "ゆびわ",
+    "chinese": "戒指",
+    "english": "ring",
+    "image": "img/ring.jpg"
+  },
+  {
+    "category": "服",
+    "japanese": "くちべに",
+    "chinese": "口红",
+    "english": "lipstick",
+    "image": "img/lipstick.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "かぞく",
+    "chinese": "家庭",
+    "english": "family",
+    "image": "img/family.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "ちち",
+    "chinese": "父亲",
+    "english": "father",
+    "image": "img/father.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "はは",
+    "chinese": "母亲",
+    "english": "mother",
+    "image": "img/mother.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "あに",
+    "chinese": "兄",
+    "english": "older brother",
+    "image": "img/older brother.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "あね",
+    "chinese": "姐",
+    "english": "older sister",
+    "image": "img/older sister.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "おとうと",
+    "chinese": "弟",
+    "english": "younger brother",
+    "image": "img/younger brother.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "いもうと",
+    "chinese": "妹",
+    "english": "younger sister",
+    "image": "img/younger sister.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "こども",
+    "chinese": "孩子",
+    "english": "child",
+    "image": "img/child.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "おじいさん",
+    "chinese": "爷爷",
+    "english": "grandfather",
+    "image": "img/grandfather.jpg"
+  },
+  {
+    "category": "家族",
+    "japanese": "おばあさん",
+    "chinese": "奶奶",
+    "english": "grandmother",
+    "image": "img/grandmother.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "あか",
+    "chinese": "红色",
+    "english": "red",
+    "image": "img/red.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "あお",
+    "chinese": "蓝色",
+    "english": "blue",
+    "image": "img/blue.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "きいろ",
+    "chinese": "黄色",
+    "english": "yellow",
+    "image": "img/yellow.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "みどり",
+    "chinese": "绿色",
+    "english": "green",
+    "image": "img/green.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "むらさき",
+    "chinese": "紫色",
+    "english": "purple",
+    "image": "img/purple.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "くろ",
+    "chinese": "黑色",
+    "english": "black",
+    "image": "img/black.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "しろ",
+    "chinese": "白色",
+    "english": "white",
+    "image": "img/white.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "ちゃいろ",
+    "chinese": "棕色",
+    "english": "brown",
+    "image": "img/brown.jpg"
+  },
+  {
+    "category": "色",
+    "japanese": "はいいろ",
+    "chinese": "灰色",
+    "english": "gray",
+    "image": "img/gray.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "かいしゃいん",
+    "chinese": "公司职员",
+    "english": "office worker",
+    "image": "img/office worker.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "せんせい",
+    "chinese": "老师",
+    "english": "teacher",
+    "image": "img/teacher.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "いしゃ",
+    "chinese": "医生",
+    "english": "doctor",
+    "image": "img/doctor.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "かんごし",
+    "chinese": "护士",
+    "english": "nurse",
+    "image": "img/nurse.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "けんきゅうしゃ",
+    "chinese": "研究员",
+    "english": "researcher",
+    "image": "img/researcher.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "こうむいん",
+    "chinese": "行政人员",
+    "english": "administrative staff",
+    "image": "img/administrative staff.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "ぎんこういん",
+    "chinese": "银行职员",
+    "english": "bank clerk",
+    "image": "img/bank clerk.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "べんごし",
+    "chinese": "律师",
+    "english": "lawyer",
+    "image": "img/lawyer.jpg"
+  },
+  {
+    "category": "仕事",
+    "japanese": "かいけい",
+    "chinese": "会计",
+    "english": "accountant",
+    "image": "img/accountant.jpg"
+  },
+  {
+    "category": "乗り物",
+    "japanese": "じてんしゃ",
+    "chinese": "自行车",
+    "english": "bicycle",
+    "image": "img/bicycle.jpg"
+  },
+  {
+    "category": "乗り物",
+    "japanese": "くるま",
+    "chinese": "汽车",
+    "english": "car",
+    "image": "img/car.jpg"
+  },
+  {
+    "category": "乗り物",
+    "japanese": "でんしゃ",
+    "chinese": "电车",
+    "english": "tram",
+    "image": "img/tram.jpg"
+  }
+]
