@@ -13,6 +13,12 @@ function App() {
       .then((data) => setWordData(data));
   }, []);
 
+  const playSound = (filename) => {
+    let audio = new Audio(filename);
+    audio.play();
+  };
+  
+
   const handleStart = () => {
     generateQuestion(wordData);
   };
@@ -20,27 +26,30 @@ function App() {
   const generateQuestion = (data) => {
     const randomIndex = Math.floor(Math.random() * data.length);
     const selectedWord = data[randomIndex];
-    const filteredData = data.filter((item) => item.category === selectedWord.category && item.japanese !== selectedWord.japanese);
-    const option1 = filteredData[Math.floor(Math.random() * filteredData.length)];
-    const option2 = filteredData[Math.floor(Math.random() * filteredData.length)];
+    const filteredData = data.filter((item) => item.japanese !== selectedWord.japanese);
+
+    let option1 = filteredData[Math.floor(Math.random() * filteredData.length)];
+    let option2 = filteredData.filter((item) => item.japanese !== option1.japanese)[Math.floor(Math.random() * (filteredData.length - 1))];
+
     setCurrentQuestion({
       ...selectedWord,
       choices: [selectedWord.chinese, option1.chinese, option2.chinese].sort(() => Math.random() - 0.5),
       showImage: false,
     });
-  };
+};
 
-  const handleAnswerClick = (answer) => {
-    setSelectedAnswer(answer);
-    setIsCorrect(answer === currentQuestion.chinese);
-    setCurrentQuestion({ ...currentQuestion, showImage: true });
-  };
 
-  const handleNextClick = () => {
-    setSelectedAnswer(null);
-    setIsCorrect(null);
-    generateQuestion(wordData);
-  };
+const handleAnswerClick = (answer) => {
+  setSelectedAnswer(answer);
+  const isAnswerCorrect = answer === currentQuestion.chinese;
+  setIsCorrect(isAnswerCorrect);
+  if (isAnswerCorrect) {
+      playSound('/correct.mp3');
+  } else {
+      playSound('/incorrect.mp3');
+  }
+  setCurrentQuestion({ ...currentQuestion, showImage: true });
+};
 
   const speak = (text, lang) => {
     if ('speechSynthesis' in window) {
